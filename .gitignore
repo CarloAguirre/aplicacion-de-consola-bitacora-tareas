@@ -1,0 +1,5 @@
+# Esta carpeta contiene los elementos que github ignorara
+
+node_modules/
+
+db/data.json
